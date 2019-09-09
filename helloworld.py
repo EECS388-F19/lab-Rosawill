@@ -8,5 +8,5 @@ result = a + b
 print("Rosemary")
 print(a)
 print(b)
-print("Sum = " + str(a + b))
-print("Average = "  + str((a + b) / 2))
+print("Sum = " + str(result))
+print("Average = "  + str(result / 2.0))
